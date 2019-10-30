@@ -7,24 +7,5 @@ A full-featured yet simple blog engine built on ASP.NET Core 2.0.
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
-## How to use
-On the command line, install the template.
-
-```cmd
-dotnet new --install MadsKristensen.AspNetCore.Miniblog
-```
-
-Then create it into any folder.
-
-```cmd
-dotnet new miniblog
-```
-
-Then run it or open it in Visual Studio or your favorite code editor.
-
-```cmd
-dotnet run
-```
-
 ## Credits
 SVG icons by <https://simpleicons.org/>
